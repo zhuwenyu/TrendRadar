@@ -1,10 +1,7 @@
 {
-  "generated_at": "2026-06-18T22:01:34.849180+08:00",
-  "total_titles_processed": 1248,
-  "failed_sources": [
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2026-06-19T01:32:07.340036+08:00",
+  "total_titles_processed": 309,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://zhuwenyu.github.io/TrendRadar/img/news.jpg"
 }
