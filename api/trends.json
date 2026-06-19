@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-06-19T21:32:26.353116+08:00",
-  "total_titles_processed": 1210,
-  "failed_sources": [],
+  "generated_at": "2026-06-20T00:31:59.786417+08:00",
+  "total_titles_processed": 279,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [],
   "report_image_url": "https://zhuwenyu.github.io/TrendRadar/img/news.jpg"
 }
