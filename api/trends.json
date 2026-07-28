@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-28T18:28:46.466351+08:00",
-  "total_titles_processed": 1308,
-  "failed_sources": [],
+  "generated_at": "2026-07-28T20:51:05.748127+08:00",
+  "total_titles_processed": 1467,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [],
   "report_image_url": "https://zhuwenyu.github.io/TrendRadar/img/news.jpg"
 }
